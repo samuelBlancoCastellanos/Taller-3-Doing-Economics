@@ -1,3 +1,4 @@
 # Taller-3-Doing-Economics
 Este grupo se compone de Juan David Paiva, Sofia Obando y Samuel Blanco Castellanos
 ------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+Contexto del ejercicio: El cambio climático se ha establecido como uno de los retos más grandes de nuestra época, con consecuencias evidentes en la vida diaria: sequías prolongadas, olas de calor más fuertes y sucesos extremos cada vez más habituales. El taller examinado se propuso, frente a esta situación, dar respuesta a una cuestión fundamental: ¿qué tan extraordinario es el calentamiento actual si lo contrastamos con la historia climática del planeta? El propósito principal fue analizar el desarrollo de las anomalías térmicas desde finales del siglo diecinueve hasta la actualidad, y compararlas con reconstrucciones históricas que cubren casi un milenio.
