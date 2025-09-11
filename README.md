@@ -5,6 +5,9 @@ Contexto del ejercicio: El cambio climático se ha establecido como uno de los r
 
 
 La estructura de carpetas sigue las normas vistas en clase para asegurar orden y reproducibilidad: 
+
 En la carpeta **Rawdata** se guardan las bases originales descargadas (por ejemplo, anomalías de temperatura de la NASA y concentraciones de CO₂ de Mauna Loa), sin ningún tipo de modificación.
+
 En **Code** se encuentran los scripts en Python que limpian los datos, calculan estadísticos (medias, varianzas, deciles, correlaciones de Pearson) y generan tablas y gráficas solicitadas en el taller. 
+
 Los resultados producidos por el código se guardan automáticamente en **Outputs**, donde **Figures** almacena los gráficos (series temporales, histogramas, diagramas de dispersión, etc.) y **Tables** almacena las tablas exportadas en formato LaTeX para su inclusión en el informe. De esta forma, los datos brutos permanecen intactos, el código documenta cada paso del análisis y los resultados quedan organizados y listos para ser integrados en el documento final.
